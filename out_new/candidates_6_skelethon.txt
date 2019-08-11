@@ -78,8 +78,8 @@
 763	1219    impolite with label change
 770	1563    *****   --> equal
 777	1092    *****   --> equal
-777	1436    *****
-777	1585    *****
+777	1436    impolites with label change
+777	1585    impolites with label change
 786	1272    *****   --> equal
 786	1359    impolite
 786	1640    impolite
@@ -128,8 +128,8 @@
 1075	1134    impolite
 1075	1617    *****
 1091	1717    *****  --> equal 
-1092	1436    ***** 
-1092	1585    *****
+1092	1436    impolite with label change 
+1092	1585    impolite with label change
 1107	1430    *****  --> equal
 1111	1169    impolite
 1111	1176    *****  --> equal
@@ -176,8 +176,8 @@
 1319	1426    impolite
 1320	1534    *****  --> equal with label change
 1321	1440    *****  --> equal
-1322	1373    *****
-1322	1600    *****
+1322	1373    impolite with label change
+1322	1600    impolite with label change
 1322	1676    *****  --> equal
 1327	1872    *****  --> equal
 1329	1826    *****  --> equal with label change
@@ -187,8 +187,8 @@
 1365	1429    *****  --> equal
 1365	1606    *****  --> equal
 1372	1851    *****  --> equal
-1373	1600    *****
-1373	1676    *****
+1373	1600   equal with label change
+1373	1676    impolite with label change
 1375	1648    *****  --> equal
 1378	1426    *****  --> equal
 1381	1520    *****  --> equal
@@ -203,7 +203,7 @@
 1429	1606    *****  --> equal
 1432	1443    *****  --> equal
 1433	1723    *****  --> equal
-1436	1585    *****
+1436	1585    *****  --> equal with label change
 1439	1706    *****  --> equal
 1445	1707    *****  --> equal
 1448	1689    *****  --> equal
@@ -308,6 +308,6 @@
 1842	1863    *****  --> equla with label change
 1843	1863    *****  --> equal
 1844	1868    *****  --> equal
-1848	1883    *****
+1848	1883    impolite with label change
 1865	1887    *****  --> equal
 1873	1896    *****  --> equal
